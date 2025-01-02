@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+}
+body{
+    background-color: #0A0E31;
+    color: white;
+    
+}
+
+button{
+    background-color: #673AB7;
+    color: white;
+    border-color: #673AB7;
+}
+
+div{
+   width: auto;
+   background-color: #673AB7;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   font-size: x-large;
+}
